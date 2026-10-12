@@ -29,24 +29,18 @@ quantum-optimization-simulation-labs/
 ├── requirements.txt
 │
 ├── Module1_Labs/
-│   ├── Lab01_...
-│   ├── Lab02_...
-│   └── ...
+│   ├── Lab01 Python, Colab, and Qiskit Quick Start
 │
 ├── Module2_Labs/
-│   ├── Lab03_...
-│   ├── Lab04_...
-│   └── ...
+│   ├── Lab02 Complete 5-Node Max-Cut QAOA
+│   ├── Lab03 QAOA: Ideal Simulator, Noise, and Real Hardware
 │
 ├── Module3_Labs/
-│   ├── Lab05_...
-│   ├── Lab06_...
-│   └── ...
+│   ├── Lab04 Preparing the H₂ Configuration Mix
 │
 ├── Module4_Labs/
-│   ├── Lab07_...
-│   ├── Lab08_...
-│   └── ...
+│   ├── Lab05 Complete VQE for the H₂ Ground-State Energy
+│   ├── Lab06 H₂ Bond-Length Curve, Noise, and Optional Hardware
 │
 ├── Utilities/
 │
@@ -63,9 +57,9 @@ The micro-credential consists of approximately
 
 | Component | Quantity |
 |-----------|---------:|
-| 🎥 Short lecture videos | ~30 |
-| 💻 Web-based laboratories | 7–8 |
-| 📝 Homework assignments | 3 |
+| 🎥 Short lecture videos | 22 |
+| 💻 Web-based laboratories | 6 |
+| 📝 Homework assignments | 2 |
 | ✅ Tests | 4 |
 
 ---
@@ -74,13 +68,12 @@ The micro-credential consists of approximately
 
 After completing these laboratories, learners should be able to
 
-- Explain how optimization problems are formulated as Hamiltonians.
-- Construct and interpret QAOA circuits.
-- Construct and interpret VQE circuits.
-- Explain how quantum measurements estimate expectation values.
-- Understand how classical optimization updates circuit parameters.
-- Apply variational quantum algorithms to practical optimization and simulation problems.
-- Recognize applications of quantum optimization and simulation in science and engineering.
+- Explain the principles of hybrid variational quantum algorithms.
+- Describe how QAOA solves combinatorial optimization problems.
+- Formulate optimization and simulation problems using Hamiltonians.
+- Describe how VQE estimates molecular ground-state energies.
+- Interpret quantum circuit measurements and optimization results.
+- Identify potential applications of variational quantum algorithms in their own discipline.
 
 ---
 
@@ -156,7 +149,7 @@ Optional challenge exercises are included for learners wishing to explore topics
 
 # Citation
 
-If you use these materials in teaching, research, or curriculum development, please cite both the repository and the course webpage.
+If you use these materials in teaching, research, or curriculum development, please cite both this repository and the course webpage.
 
 **Quantum Computing Micro-Credential**
 
