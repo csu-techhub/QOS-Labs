@@ -42,6 +42,7 @@ quantum-optimization-simulation-labs/
 ├── Module4_Labs/
 │   ├── Lab05 Complete VQE for the H₂ Ground-State Energy
 │   ├── Lab06 H₂ Bond-Length Curve, Noise, and Optional Hardware
+│   ├── Lab06(Extra) Assignment 2: VQE for the BeH₂ (beryllium hydride) Ground-State Energy
 │
 ├── Utilities/
 │
