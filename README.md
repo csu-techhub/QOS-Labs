@@ -34,7 +34,8 @@ quantum-optimization-simulation-labs/
 ├── Module2_Labs/
 │   ├── Lab02 Complete 5-Node Max-Cut QAOA
 │   ├── Lab03 QAOA: Ideal Simulator, Noise, and Real Hardware
-│   ├── Lab03(Extra) Assignment 1: 20-Node Max-Cut QAOA
+│   ├── Optional Lab: Max-Cut to Portfolio Optimization
+│   ├── Assignment 1: QAOA with 20-Node Max-Cut
 │
 ├── Module3_Labs/
 │   ├── Lab04 Preparing the H₂ Configuration Mix
